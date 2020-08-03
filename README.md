@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
- *Backend Developer
+ Backend Developer
  
- *An admirer of technologies, always seeking to develop myself in the best way as a person and professional.
+ An admirer of technologies, always seeking to develop myself in the best way as a person and professional.
  
- *Enthusiastic about new technologies in order to improve and facilitate the development process.
+ Enthusiastic about new technologies in order to improve and facilitate the development process.
  
- *Python language admirer 
+ Python language admirer 
 
 <!--
 **Gabrieltggv/Gabrieltggv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
