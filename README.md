@@ -5,7 +5,7 @@
  
  An admirer of technologies, always seeking to develop myself in the best way as a person and professional.
  
- Enthusiastic about new technologies in order to improve and facilitate the development process.
+ Enthusiast about new technologies in order to improve and facilitate the development process.
  
  Python language admirer 
 
